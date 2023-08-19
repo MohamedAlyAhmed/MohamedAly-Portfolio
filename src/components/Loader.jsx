@@ -7,7 +7,7 @@ const CanvasLoader = () => {
       as="div"
       center
       style={{
-        marginTop: 40,
+        marginTop: 180,
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
